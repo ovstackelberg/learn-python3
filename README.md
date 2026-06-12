@@ -20,6 +20,12 @@ If you can not access Python and/or Jupyter Notebook on your machine, you can st
 2. Run `jupyter notebook` command in your command line in the repository directory.
 3. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
 
+#### Usage (Docker)
+
+1. Clone or download this repository.
+2. Run `docker compose up -d` command in your command line in the repository directory.
+3. Open Jupyter Notebook session (http://localhost:8888/) in the browser and you can start navigating through the materials.
+
 #### Usage (Binder in the cloud)
 
 You can also just use [Binder:](https://mybinder.org/) By clicking of this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerry-git/learn-python3/master) badge, the project is opened in a Jupyter instance in the cloud and you can then navigate to the folders containing the notebooks and start them each and interactively explore them! 
